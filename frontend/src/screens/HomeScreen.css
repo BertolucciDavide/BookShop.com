@@ -1,0 +1,53 @@
+.home-header
+{
+    color: lightgoldenrodyellow;
+    font-family: "Segoe Script";
+    font-weight: 600;
+    margin: 0 0 20px 0;
+
+    color: #ffffff;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.parallax 
+{
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#block1 
+{
+    background-image: url("https://i.pinimg.com/736x/67/18/22/671822c2f63dd5f65d8fd15c9710420b.jpg");
+    opacity: 0.8;
+}
+
+
+#block2
+{
+    background-image: url("https://smartmente.com/wp-content/uploads/2016/01/sfondo-desktop-libri.jpg");
+    opacity: 0.8;
+}
+
+
+#block3 
+{
+    background-image: url("https://www.bastiaoggi.it/wp-content/uploads/2021/09/libri-scolastici.jpg");
+    opacity: 0.8;
+}
+
+
+
+
+#text_box 
+{
+    position: relative;
+    bottom: -250px;
+    text-align: center;
+    font-size: 32px;
+ }
